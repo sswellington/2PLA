@@ -43,4 +43,3 @@ Again, *2PLA* is **NOT** a clinical software.
 ### References
 
 [1] S. M. Pereira, M. A. C. Frade, R. M. Rangayyan, and P. M. Azevedo-Marques. Classification of color images of dermatological ulcers. Journal of Biomedicine and Health, 17(1):136–142, 2013.
-# 2PLA
